@@ -39,6 +39,7 @@ This is a Currency Converter application built using ReactJS. The application al
 
 - **CurrencySelector:** Main component for selecting currencies and inputting amounts.
 - **ConversionResult:** Placeholder component for displaying conversion results (to be implemented).
+- **AmountInput:** Placeholder for displaying the amount of input 
 
 ## Code Highlights
 
@@ -91,4 +92,4 @@ Styled using Tailwind CSS for a clean and modern look:
 [Frankfurter API](https://www.frankfurter.app/) - For fetching real-time currency data.
 
 ## Deployment
-The application is deployed using Vercel for seamless hosting.
+The application is deployed using Netlify for seamless hosting.
